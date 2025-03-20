@@ -83,3 +83,7 @@ Licensed under the MIT License. Check the [LICENSE](LICENSE) file if you give a 
 - Built for sloppy geniuses who need a calculator with attitude.
 
 Get calculating, you magnificent bastard!
+
+## Attributions
+
+This README was also generated 100% by AI, except for this line.
